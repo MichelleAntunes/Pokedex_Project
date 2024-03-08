@@ -20,11 +20,11 @@ The aim of this project is to create a website with three pages using Poke Api a
 
 ### Video:
 
-- ???
+- https://www.loom.com/share/bb0eebb83af34b71bf21bf04fec23104?sid=5b98d88a-4495-44ee-999a-dab7aa2ce2ad
 
 ### Demonstration:
 
-- ???
+- [Link] (pokedex-antunes.surge.sh)
 
 ### Home page:
 
