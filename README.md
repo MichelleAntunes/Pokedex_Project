@@ -24,7 +24,7 @@ The aim of this project is to create a website with three pages using Poke Api a
 
 ### Demonstration:
 
-- [Link] (pokedex-antunes.surge.sh)
+- pokedex-antunes.surge.sh
 
 ### Home page:
 
